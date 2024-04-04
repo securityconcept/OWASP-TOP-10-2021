@@ -1,0 +1,12 @@
+List of categories comes in OWASP TOP 10 2021:
+
+1-Broken access control
+2-Cryptographic failures
+3-Injection
+4-Insecure design
+5-Security misconfiguration
+6-Vulnerable and outdated components
+7-Identification and authentication failures
+8-Software and data integrity failures
+9-Security logging and monitoring failures
+10-Server-side request forgery
